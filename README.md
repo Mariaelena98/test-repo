@@ -4,7 +4,7 @@
 
 * Bullet 1
 
-Learning Git and GitHub is really fun!
+Learning Git and GitHub is really F-U-N!
 
 ```R
 this is code
