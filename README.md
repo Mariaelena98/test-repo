@@ -11,3 +11,6 @@ this is code
 if this then that
 a = sample(c(0,1), 4, replace=T)
 ```
+## Link patente:
+
+[link to quiz](https://www.quizpatentenautica.net/Liguria)
